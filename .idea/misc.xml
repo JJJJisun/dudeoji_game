@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/dudeoji_game/app/src/main/res/layout/activity_game_finish.xml" value="0.3536458333333333" />
+        <entry key="..\:/AndroidProjects/dudeoji_game/app/src/main/res/layout/activity_game_stage.xml" value="0.3536458333333333" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
